@@ -1,0 +1,7 @@
+/.vscode
+/Amazon_Forecast_Factor.qvd
+/build
+/dist
+/main.py
+/main.spec
+/QVDtoSQL.spec

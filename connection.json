@@ -1,0 +1,8 @@
+{
+    "Server"            :  "10.0.0.46",
+    "Database"          : "BHFInternal",
+    "UID"               :  "Bhavya",
+    "PWD"               :  "Welcome2BHF",
+    "LogFilePath"       :  "C:\\Application Logs\\QVDtoSQL\\",
+    "QVDFilePath"       :  "\\bhf-qliksense\\QlikShare\\QVDs\\Amazon_Forecast_Factor.qvd"
+}
